@@ -5,7 +5,7 @@
 #include <unistd.h>
 #include <stdlib.h>
 
-int add(int len, ...);
+// int add(int len, ...);
 
 int ft_printf(const char *format, ...);
 int ft_putchar(char c);

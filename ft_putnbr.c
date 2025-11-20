@@ -26,11 +26,11 @@ int ft_putnbr(int n)
     ft_putchar(num + '0');
 }
 
-int main()
-{
-    ft_putnbr(-2147483648);
-    return 0;
-}
+// int main()
+// {
+//     ft_putnbr(-2147483648);
+//     return 0;
+// }
 
 
 // #include<unistd.h>
